@@ -18,7 +18,7 @@ A simple Telegram userbot based on Telethon .
 
 
 
-## How to deploy catuserbot
+## How to deploy Aslamuserbot
 ### Self host
   - [check this](https://catuserbot.gitbook.io/catuserbot/tutorial/self-host)
   
